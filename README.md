@@ -1,2 +1,2 @@
-# algos_and_ds_in_js
+# algorithms-exercises
 Created with CodeSandbox
